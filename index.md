@@ -6,6 +6,10 @@ This notice describes privacy-relevant processing for the TimeShare Life feature
 
 Health information remains on the device. TimeShare does not upload HealthKit or Health Connect data, or information derived from it, to its servers.
 
+## Optional AI features
+
+AI features are optional. When you explicitly choose to use one and give consent, TimeShare sends only the information needed for that request to Groq, our third-party AI provider, so Groq can generate the requested response. TimeShare does not send HealthKit or Health Connect data to Groq. TimeShare does not use AI requests or responses for advertising or tracking.
+
 ## What matters to you (Life)
 
 *What matters to you (Life).* If you use Life, TimeShare stores what you
